@@ -11,7 +11,7 @@ python data_import.py
 ```
 
 This script collects samples from BioSamples that have project field equals to 
-ORG.one or AORG.ONE (parameters in get requests are case-sensitive). Then for
+ORG.one or ORG.ONE (parameters in get requests are case-sensitive). Then for
 every BioSample id: 
 1. script creates directory (if it doesn't exist), 
 2. downloads metadata information in JSON format (if it doesn't exist)
