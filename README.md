@@ -17,4 +17,4 @@ every BioSample id:
 2. downloads metadata information in JSON format (if it doesn't exist)
 3. Check for experiments and downloads fast.gz files (if it doesn't exist)
 4. Check for assemblies and downloads .dat.gz, fasta.gz and 
-5. sequence_report.txt (if it doesn't exist)
+sequence_report.txt (if it doesn't exist)
